@@ -3,10 +3,11 @@
 # 💫 About Me:
 Hey there! ✌️<br><br>I'm **Kunal**, a CS & AI student at Newton School of Technology, India 🇮🇳<br><br>I love building things with code, exploring AI, and turning ideas into real-world projects.<br><br>I'm especially interested in **AI/ML, backend engineering, and open-source development**. I enjoy experimenting with new technologies, solving problems, and contributing to projects that people actually use.<br><br>My current tech stack includes **Python, FastAPI, SQL, PostgreSQL, Git, and scikit-learn**. I'm also exploring machine learning, AI-powered applications, and modern backend architectures.<br><br>I've worked on projects involving machine learning, recommendation systems, and backend APIs, and I'm continuously improving my skills by building and contributing to open-source projects.<br><br><br>
 ### Fun Facts <br><br>
-🤖 Interested in AI/ML and building intelligent applications<br>- 
-🛠️ Love building projects and experimenting with new ideas<br>- 
-💻 Enjoy solving coding problems and learning new technologies<br>- 
-🎯 Always working on becoming a better developer<br><br>
+- 🤖 Interested in AI/ML and building intelligent applications<br>
+- 🛠️ Love building projects and experimenting with new ideas<br>
+- 💻 Enjoy solving coding problems and learning new technologies<br>
+- 🎯 Always working on becoming a better developer<br><br>
+
 **Currently learning:** Machine Learning, backend engineering, and building better AI-powered products.<br><br>Let's build something cool! ✨<br>
 
 
