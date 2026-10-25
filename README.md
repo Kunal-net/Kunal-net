@@ -10,13 +10,11 @@ My current tech stack includes **Python, FastAPI, SQL, PostgreSQL, Git, and scik
 
 I've worked on projects involving machine learning, recommendation systems, and backend APIs, and I'm continuously improving my skills by building and contributing to open-source projects.
 
-I'm currently exploring open-source communities, working on personal projects, and looking for opportunities to collaborate with other developers.
 
 ### Fun Facts 🚀
 
 - 🤖 Interested in AI/ML and building intelligent applications
 - 🛠️ Love building projects and experimenting with new ideas
-- 🌍 Exploring open-source contributions and GSoC opportunities
 - 💻 Enjoy solving coding problems and learning new technologies
 - 🎯 Always working on becoming a better developer
 
